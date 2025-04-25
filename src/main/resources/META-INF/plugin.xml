@@ -5,6 +5,9 @@
     <vendor>0xchen</vendor>
 
     <depends>com.intellij.modules.platform</depends>
+    <depends>com.intellij.modules.java</depends>
+    <depends>com.intellij.spring.boot</depends>
+    <depends>com.intellij.modules.debugger</depends>
 
     <resource-bundle>messages.MyBundle</resource-bundle>
 
